@@ -1,0 +1,19 @@
+{
+  "name": "randomleague",
+  "version": "1.0.0",
+  "description": "Gerador de liga randomica com times predefinidos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roadamesantana/RandomLeague.git"
+  },
+  "author": "Ronald Adame Sant'Ana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roadamesantana/RandomLeague/issues"
+  },
+  "homepage": "https://github.com/roadamesantana/RandomLeague#readme"
+}
